@@ -39,6 +39,12 @@ export default {
           apple: 'apple-20',
           banana: 'banana-20',
           orange: 'orange-20'
+        },
+        {
+          name: 'fruit-3',
+          apple: 'apple-30',
+          banana: 'banana-30',
+          orange: 'orange-30'
         }
       ],
       key: 1, // table key
